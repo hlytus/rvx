@@ -50,18 +50,9 @@ open-links-directly
 
 >Skips over redirection URLs to external links.
 </summary>
-<video src="assets/reddit/open-links-directly/1.gif" width="200"> &nbsp;&nbsp;&nbsp;&nbsp; <video src="assets/reddit/open-links-directly/2.gif" width="200">
-</details>
+<img src="assets/reddit/open-links-directly/1.gif" width="200" height="440"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/reddit/open-links-directly/2.gif" width="200" height="440">
 
-<details>
-<summary>
- open-links-externally
-
->Open links outside of the app directly in your browser.
-</summary>
-<img src="/assets/reddit/" width="200" align="center"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/assets/reddit/" width="200" align="center">
-
-disabled     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; enabled
+Enabled &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;Disabled
 </details>
 
 
