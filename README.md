@@ -55,7 +55,28 @@ open-links-directly
 Enabled &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;Disabled
 </details>
 
+<details>
+<summary>
+sanitize-sharing-links
 
+>Removes (tracking) query parameters from the URLs when sharing links.
+</summary>
+<img src="assets/reddit/sanitize-sharing-links/1.png" width="500"> 
+
+<img src="assets/reddit/sanitize-sharing-links/2.png" width="500">
+</details>
+
+
+youtube
+
+<details>
+<summary>
+
+
+>
+</summary>
+<img src="" width="250"> 
+</details>
 
 
 
