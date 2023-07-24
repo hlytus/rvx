@@ -67,16 +67,4 @@ sanitize-sharing-links
 </details>
 
 
-youtube
-
-<details>
-<summary>
-
-
->
-</summary>
-<img src="" width="250"> 
-</details>
-
-
 
