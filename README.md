@@ -50,7 +50,7 @@ open-links-directly
 
 >Skips over redirection URLs to external links.
 </summary>
-<video src="assets/reddit/open-links-directly/1.mp4" width="200"> &nbsp;&nbsp;&nbsp;&nbsp; <video src="assets/reddit/open-links-directly/2.mp4" width="200">
+<video src="assets/reddit/open-links-directly/1.gif" width="200"> &nbsp;&nbsp;&nbsp;&nbsp; <video src="assets/reddit/open-links-directly/2.gif" width="200">
 </details>
 
 <details>
