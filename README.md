@@ -1,6 +1,64 @@
+# Patches-Documentation
 <details><summary>
 
-## Patches with Screenshots</summary>
+## Recommended Versions
+</summary>
+
+***Recommended application versions to patch for best compatibilty with patches.***
+
+<details open><summary>
+
+#### YouTube
+</summary>
+
+```
+18.31.40, 18.30.37, 18.29.38, 18.27.36, 18.25.40, 18.24.37, 18.23.36, 18.22.37, 18.21.35, 18.20.39, 18.19.36
+```
+
+</details>
+
+<details open><summary>
+  
+#### YouTube Music
+</summary>
+
+```
+6.19.51, 6.15.52
+```
+
+</details>
+
+<details open><summary>
+
+#### Reddit
+</summary>
+
+```
+all
+```
+</details></details>
+
+<details><summary>
+
+## Patches with Screenshots
+</summary>
+
+***List of patches with screenshots.***
+
+<details><summary>
+
+#### YouTube</summary>
+include patches here
+
+</details>
+
+<details><summary>
+
+#### YouTube Music</summary>
+include patches here
+
+</details>
+
 <details><summary>
 
 #### Reddit</summary>
@@ -74,3 +132,4 @@ Sanitized:</br>
 Unsanitized:</br>
 <img src="assets/reddit/sanitize-sharing-links/2.png" width="700">
 </details>
+
