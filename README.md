@@ -55,7 +55,46 @@ include patches here
 <details><summary>
 
 #### YouTube Music</summary>
-include patches here
+
+<details><summary> Amoled
+
+>Applies pure black theme on some components.
+</summary>
+<p><img src="assets/youtube-music/amoled/1.png" width="500"></p>
+</details>
+
+<details><summary>Background play
+
+>Enables playing music in the background.
+</summary>
+<p><img src="assets/youtube-music/background-play/1.mp4" width="300">
+<img src="assets/youtube-music/background-play/2.mp4" width="300"></p>
+</details>
+
+<details><summary>Bitrate default value
+
+>Set the audio quality to "Always High" when you first install the app.
+</summary>
+<p><img src="assets/youtube-music/bitrate-default-value/1.png" width="500"></p>
+</details>
+
+<details><summary>Certificate spoof
+
+>Spoofs the YouTube Music certificate for Android Auto.
+</summary>
+<p><img src="assets/youtube-music/certificate-spoof/1.png" width="800"></p>
+</details>
+
+
+
+
+
+
+
+
+
+
+
 
 </details>
 
