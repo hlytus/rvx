@@ -15,7 +15,7 @@
 <details><summary>hide-ads
 
 >Removes ads from Reddit. </summary>
-<img src="assets/reddit/hide-ads/1.png" width="300"> 
+<img src="assets/reddit/hide-ads/1.png" width="500"> 
 </details>
 
 <details><summary>hide-navigation-buttons
@@ -54,20 +54,16 @@ Enabled &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp
 </summary>
 <img src="assets/reddit/reddit-settings/1.png" width="500"> 
 
-<img src="" width="300">
 </details>
 
 <details><summary>sanitize-sharing-links
 
->Removes (tracking) query parameters from the URLs when sharing links.
+> Removes (tracking) query parameters from the URLs when sharing links.
+
 </summary>
-Sanitized:
-
-<img src="assets/reddit/sanitize-sharing-links/1.png" width="500"> 
-
-Unsanitized:
-
+Sanitized:</br>
+<img src="assets/reddit/sanitize-sharing-links/1.png" width="500"></br>
+Unsanitized:</br>
 <img src="assets/reddit/sanitize-sharing-links/2.png" width="500">
 </details>
-
 
