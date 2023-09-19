@@ -1,52 +1,38 @@
 <details><summary>
 
-## Patches with Screenshots
-</summary>
-
+## Patches with Screenshots</summary>
 <details><summary>
 
-#### Reddit
-</summary>
+#### Reddit</summary>
 
-<details>
-<summary>
-disable-screenshot-popup
+<details><summary>disable-screenshot-popup
 
-> Disables the popup that shows up when taking a screenshot.
+>Disables the popup that shows up when taking a screenshot.
 </summary>
 <img src="assets/reddit/disable-screenshot-popup/1.png" width="300"> 
 </details>
 
-<details>
-<summary>
-hide-ads
+<details><summary>hide-ads
 
->Removes ads from Reddit.
-</summary>
+>Removes ads from Reddit. </summary>
 <img src="assets/reddit/hide-ads/1.png" width="300"> 
 </details>
 
-<details>
-<summary>
-hide-create-button
+<details><summary>hide-navigation-buttons
 
->Hide create button at navigation bar.
+>Hide buttons at navigation bar.
 </summary>
-<img src="assets/reddit/hide-create-button/1.png" width="400"> 
+<img src="assets/reddit/hide-navigation-buttons/1.png" width="700"> 
 </details>
 
-<details>
-<summary>
-hide-discover-button
+<details><summary> hide-place-button
 
->Hides the discover button from the navigation bar.
+>Hide r/place button in toolbar.
 </summary>
-<img src="assets/reddit/hide-discover-button/1.png" width="400"> 
+<img src="assets/reddit/hide-place-button/1.png" width="500"> 
 </details>
 
-<details>
-<summary>
-open-links-directly
+<details><summary>open-links-directly
 
 >Skips over redirection URLs to external links.
 </summary>
@@ -55,16 +41,33 @@ open-links-directly
 Enabled &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;Disabled
 </details>
 
-<details>
-<summary>
-sanitize-sharing-links
+<details><summary>premium-icon
+
+>Unlocks premium icons.
+</summary>
+<img src="assets/reddit/premium-icon/1.png" width="300">
+</details>
+
+<details><summary>reddit-settings
+
+>Adds ReVanced settings to Reddit.
+</summary>
+<img src="assets/reddit/reddit-settings/1.png" width="500"> 
+
+<img src="" width="300">
+</details>
+
+<details><summary>sanitize-sharing-links
 
 >Removes (tracking) query parameters from the URLs when sharing links.
 </summary>
+Sanitized:
+
 <img src="assets/reddit/sanitize-sharing-links/1.png" width="500"> 
+
+Unsanitized:
 
 <img src="assets/reddit/sanitize-sharing-links/2.png" width="500">
 </details>
-
 
 
