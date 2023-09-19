@@ -16,7 +16,7 @@
 
 >Removes ads from Reddit.
 </summary>
-<p><img src="assets/reddit/hide-ads/1.png" width="500"></p>
+<p><img src="assets/reddit/hide-ads/1.png" width="600"></p>
 </details>
 
 <details><summary>Hide navigation buttons
